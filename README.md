@@ -1,4 +1,3 @@
-# readme-template
 # Summary
 <!---
 Provide a short summary of the project, including project goals
